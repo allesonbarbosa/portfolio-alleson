@@ -29,7 +29,7 @@
                     </li>
                     <li>
                         <b>Website:</b>
-                        <p>Alleson de Moura Barbosa</p>
+                        <p>https://alleson-barbosa.netlify.app/</p>
                     </li>
                     <li>
                         <b>Email:</b>
